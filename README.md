@@ -49,16 +49,18 @@ To run this jupyter lab notebook you will need to use GitBash and navigate to wh
 
 Next you will need to perform the following
 
-![Activate](Images/activate.png)
+![activate](readme_images/activate.png)
 
 This will open a jupyter lab notebook in your default browser with the correct working directory.
 
 Next open **'san_francisco_housing.ipynb'** and click the double arrow to run the notebook. Alternatively you can run each cell individually.
 
+![doublearrow](readme_images/double_arrow.png)
+
 Make sure to follow the pseudocode to see the coding logic and fully understand what is being analyzed and displayed.
 
-There are a couple of interactive graphs for rent prices vs sales prices in a line plot and a geoview. Make sure to follow the analysis and
-check out the different neighborhoods.
+There are a couple of interactive graphs for rent prices vs sales prices in a line plot and a geoview. Follow the analysis and
+check out the different neighborhoods by directly interacting with the graphs.
 
 
 ---
