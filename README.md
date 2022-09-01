@@ -69,13 +69,21 @@ check out the different neighborhoods by directly interacting with the graphs.
 
 Here are a few snippets of what you can find in this project
 
-### Interactive Visualization
+### Interactive Visualizations
 
-[>insert images here]
+![housing_units](readme_images/housing_units_sfo.png)
+
+Here we can see the number of housing units increase with time.
+
+![sales_gross_rent](readme_images/sales_gross_rent.png)
+
+This is an interactive visualization where the different neighborhoods can be selected and a plot showing sales prices per square foot and gross rent will be displayed.
 
 ### GeoViews Visualization
 
-[>insert images here]
+![geo_view](readme_images/geo_views.png)
+
+A map of San Francisco complete with its neighborhoods is visualized and when ran in a python environment hovering over the dots will display the nieghborhood, sales per square foot price and the gross rent price.
 
 
 ---
