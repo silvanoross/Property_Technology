@@ -1,8 +1,6 @@
 # Property_Technology
-A jupyter notebook analysis of San Francisco rental properties with interactive visualizations. First we take curated census data and read it into a pandas dataframe. Next, we prepare it 
 
-Currently under construction...
-
+A jupyter notebook analysis of San Francisco rental properties with interactive visualizations. First we take curated census data and read it into a pandas dataframe. Next, we prepare it by cleaning and passing the data through various filters. Then we compose different plots and views to show sale price per square foot and gross rent trends in San Francisco from 2010-2016.
 
 ---
 
@@ -40,7 +38,6 @@ Check the to make sure everything has been installed properly
     conda list geoviews
 ```
 
-
 ---
 
 ## Usage
@@ -61,7 +58,6 @@ Make sure to follow the pseudocode to see the coding logic and fully understand 
 
 There are a couple of interactive graphs for rent prices vs sales prices in a line plot and a geoview. Follow the analysis and
 check out the different neighborhoods by directly interacting with the graphs.
-
 
 ---
 
@@ -84,7 +80,6 @@ This is an interactive visualization where the different neighborhoods can be se
 ![geo_view](readme_images/geo_views.png)
 
 A map of San Francisco complete with its neighborhoods is visualized and when ran in a python environment hovering over the dots will display the nieghborhood, sales per square foot price and the gross rent price.
-
 
 ---
 
